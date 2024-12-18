@@ -9,8 +9,6 @@ The **CryptoBro Ecosystem** is a vibrant, community-driven platform that capture
 
 By 2025, CryptoBro will empower its community through groundbreaking tools, narratives, and crypto primitives, ensuring every Bro has the opportunity to engage, create, and profit from the decentralized future. **Our mission: Make Crypto Great Again (MCGA)** by transforming crypto from its current fragmented state into a cultural and financial phenomenon that leaves no one behind.
 
----
-
 ## The Vision: MCGA 2025 and Beyond
 
 CryptoBro’s vision is simple yet bold: to **restore the fun, accessibility, and potential for outsized rewards** that crypto promised in its early days. We believe in harnessing the power of **community, memes, and innovation** to overcome the current challenges of the crypto space, such as:
